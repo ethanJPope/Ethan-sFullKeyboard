@@ -5946,7 +5946,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 210.82) (xy 72.39 210.82)
+			(xy 83.82 210.82) (xy 72.39 210.82)
 		)
 		(stroke
 			(width 0)
@@ -9852,6 +9852,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LEDIN"
+		(shape input)
+		(at 83.82 210.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9fe019a7-f601-4ad7-996d-b7a0adb6a704")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.1876 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
