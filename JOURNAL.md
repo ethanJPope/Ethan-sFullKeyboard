@@ -3,11 +3,12 @@ title: "Ethan's-Full-Keyboard"
 author: "Ethan Pope"
 description: "I am making a full mechanical Keyboard"
 created_at: "6/4/2025"
-Total Time spent: "6h"
 ---
 # Project IDEA
 
-I want to make my very first full sized key keyboard by my self. The main reason for doing this is to understand both pcb design and how the highway works.
+I want to make my very first full sized key keyboard by my self. The core reason for doing this project is to: learn more about pcb making and second is to understand the highway process works.
+
+Total Time spent: "23h"
 
 # DAY 1: June 4th, 2025
 
@@ -53,3 +54,33 @@ bad. In the end it was a fun process that took a while but rewarding in the end.
 ![Full Keyboard Front](https://github.com/user-attachments/assets/c9c91c53-f370-4d66-a001-5b47b6e93029)
 # BACK 3D VIEW
 ![Full Keyboard Back](https://github.com/user-attachments/assets/c39beeb7-dc35-4a87-bc2e-c93bfadd7998)
+
+# DAY 3: June 8th, 2025
+## Started CAD for my case!!
+**Time spent: 8h**
+
+This day was all about cad. I spent basically the first hour - 2hours planning out what I wanted the keyboard to look like.
+It was quite a fun process of first creating the basic sketch then slowly adding the that sketch. Sadly you can't see this
+in the picture becuase I had drawn on one design instead of splitting it up. One big mistake i made was thinking it would
+be simple to make this case, but by the end of the day I am only half way to the end of this case design. The steps I took
+to make this case goes as follows. First, I imported my 3d pcb to use as a referance. Second, I desided on the mounting type
+for the case. I was mainly deciding between a Top Mount Design or a Gasket Mount Design. In the end I chose a Gasket Mount
+because I thought it could sound better even if it makes the design a little harder. Third, I went through the long and hard 
+process of making the plate. What made it so hard was how I added extra padding on the sides of the pcb with a different size
+on every side. So I couldn't use those automated plate makers. I ended up making my own plate, which took almost an hour by
+itself. Lastly for the day was making a rough to part of the case. This didn't end up being to bad to make because of my
+preemptive planning. Today was I fun test on what knowledge of Fusion 360. I learned a lot in this session about my 
+patience.
+
+# Keyboard Desgin Prototyping
+![PXL_20250611_034218439](https://github.com/user-attachments/assets/9460663d-e78c-43fc-bcca-04f94ed0b6a0)
+![PXL_20250611_034249868](https://github.com/user-attachments/assets/94cf92c3-30b5-4929-a206-c114d2883dfb)
+
+# Mounting Types
+![image](https://github.com/user-attachments/assets/2e6eeb3c-c3ac-45fe-9457-6f15455274f9)
+
+# Keyboard Plate
+![image](https://github.com/user-attachments/assets/1ff2998e-9f82-4e8b-9ca1-bb88eee6e0d1)
+
+# Top Part Of the Case(not event close to done just and outline)
+![image](https://github.com/user-attachments/assets/453d9293-ab9d-4654-b7d6-217514566f6d)
