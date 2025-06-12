@@ -8,7 +8,7 @@ created_at: "6/4/2025"
 
 I want to make my very first full sized key keyboard by my self. The core reason for doing this project is to: learn more about pcb making and second is to understand the highway process works.
 
-Total Time spent: "23h"
+Total Time spent: "33h"
 
 # DAY 1: June 4th, 2025
 
