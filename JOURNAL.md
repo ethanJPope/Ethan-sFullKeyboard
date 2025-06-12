@@ -56,6 +56,7 @@ bad. In the end it was a fun process that took a while but rewarding in the end.
 ![Full Keyboard Back](https://github.com/user-attachments/assets/c39beeb7-dc35-4a87-bc2e-c93bfadd7998)
 
 # DAY 3: June 8th, 2025
+
 ## Started CAD for my case!!
 **Time spent: 8h**
 
@@ -84,3 +85,26 @@ patience.
 
 # Top Part Of the Case(not event close to done just and outline)
 ![image](https://github.com/user-attachments/assets/453d9293-ab9d-4654-b7d6-217514566f6d)
+
+# Day 4 Jun 11, 2025
+
+## READY TO SUBMIT MY DESIGN!!
+
+**Time Spent: 10h**
+
+Today was probably my most productive day that I have had after starting this project. Today started out with me cading the bottom
+part of the case. As I was finishing the cad for the case I relized the usb-c port was covered up, but if I were to cut a hole for
+the usb it would look really bad. So I made the desision to make the usb-c port on a separate daughter board instead of directally
+on the pcb. So I spent an hour designing another pcb. After I finished that I added it to my cad file. Once I did that I cut out a
+hole for the port. Then I added some threads and mounting holes so the parts of the case so thaey can be put together. Lastly, I
+spent an 4-5 hours improving my design and make it easier to manufacture. This means no fillets so which may make it a little bad
+in the cad model, but when I put it together I can just sand down the corners.
+
+# Final CAD Model
+![image](https://github.com/user-attachments/assets/a48befd1-8746-47aa-a6bb-fd5396fcfb9c)
+
+# USB_C Daughter Board
+![image](https://github.com/user-attachments/assets/029ebe96-4325-4cd5-bf64-5da2d2884eb8)
+
+# Bottom Part of the Case with USBC
+![image](https://github.com/user-attachments/assets/c00066ba-ac4a-40cf-97c1-1e035bfa8de4)
