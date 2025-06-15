@@ -1,8 +1,9 @@
-Item,Description,Unit Price (USD),Supplier
-1,Custom PCBs,55.82,JLCPCB
+Item,Description,Unit Price,Supplier
+1,Custom Keyboard PCB,55.82,JLCPCB
 2,PCB Components,22.54,LCSC
 3,USB-C Cable,6.23,AliExpress
 4,Hot Swap Sockets,6.90,AliExpress
 5,Stabilizers,5.97,AliExpress
 6,Switches,21.65,AliExpress
-7,Keycap Set,19.99,Amazon
+7,Poron Foam,5.70,AliExpress
+8,Keycaps Set,19.99,Amazon
