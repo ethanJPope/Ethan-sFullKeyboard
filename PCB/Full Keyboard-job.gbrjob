@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.5"
     },
-    "CreationDate": "2025-06-07T17:07:02-07:00"
+    "CreationDate": "2025-06-15T08:35:33-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,8 +14,8 @@
       "Revision": "2.0.0"
     },
     "Size": {
-      "X": 435.65,
-      "Y": 130.75
+      "X": 439.0298,
+      "Y": 134.2299
     },
     "LayerNumber": 4,
     "BoardThickness": 1.6,
@@ -28,8 +28,8 @@
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.2,
-      "TrackToRegion": 0.2,
-      "RegionToRegion": 0.2
+      "TrackToRegion": 0.5,
+      "RegionToRegion": 0.5
     },
     {
       "Layers": "Inner",
@@ -42,16 +42,6 @@
     {
       "Path": "Full Keyboard-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Full Keyboard-In1_Cu.gbr",
-      "FileFunction": "Copper,L2,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Full Keyboard-In2_Cu.gbr",
-      "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {

@@ -482,7 +482,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "../../../../../../Program Files/KiCad/8.0/",
-      "plot": "",
+      "plot": "test/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../Full Keyboard.step",
@@ -594,10 +594,6 @@
     [
       "92054fa3-5ad0-458e-bd73-acbcf8d11243",
       "Root"
-    ],
-    [
-      "6545f051-667c-4da8-8d7d-1467971a8bc1",
-      "LEDs"
     ]
   ],
   "text_variables": {}
