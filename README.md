@@ -2,7 +2,7 @@
 
 My keybaord is a 100% version with a hotswappable pcb with custom USB_C Daughter Board PCB. 
 
-## Goals of this Project
+## Why I made this Project
 - I want a finished project
 - Learn how to make a complex pcb
 - Make a full and finished CAD Project
