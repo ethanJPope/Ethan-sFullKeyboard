@@ -22,18 +22,11 @@ My keybaord is a 100% version with a hotswappable pcb with custom USB_C Daughter
 
 ## BOM
 
-| Item                                             | Quantity | Use                             | Source   |
-|--------------------------------------------------|----------|----------------------------------|----------|
-| Capacitor_0402                                   | 2        | Something needed                 | LCSC     |
-| Fuse_0603                                        | 1        | So it doesn’t blow up            | LCSC     |
-| USB_C Port                                       | 1        | Power/Data                       | LCSC     |
-| 5.1k Resistor                                    | 2        | Pull down resistor               | LCSC     |
-| JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical            | 2        | Connect the /Daughter Board      | LCSC     |
-| CherryMX_Switch                                  | 104      | Needed for a keyboard            | Amazon   |
-| Diodes                                           | 104      | Makes the keyboard matrix        | LCSC     |
-| PCB                                              | 2        | One for the keyboard and one for the USB-C | JLCPCB   |
-| Case                                             | 2        | Make it look nice                | JLCCNC   |
-| Plate                                            | 1        | Mounting                         | JLCCNC   |
-| Cushion Damping                                  | 1        | Makes it sound better            | Amazon   |
-| Keycaps                                          | 104      | Needed for use                   | Amazon   |
-| USBC Cable                                       | 1        | Powers the keyboard              | Amazon   |
+| Item | Description       | Unit Cost |
+|------|-------------------|-----------|
+| 1    | PCB               | $55.82    |
+| 2    | PCB Components    | $22.54    |
+| 3    | USB-C Cable       | $6.23     |
+| 4    | Hot Swap Sockets  | $6.90     |
+| 5    | Stabilizers       | $5.97     |
+| 6    | Switches          | $21.65    |
