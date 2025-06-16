@@ -22,11 +22,13 @@ My keybaord is a 100% version with a hotswappable pcb with custom USB_C Daughter
 
 ## BOM
 
-| Item | Description       | Unit Cost |
-|------|-------------------|-----------|
-| 1    | PCB               | $55.82    |
-| 2    | PCB Components    | $22.54    |
-| 3    | USB-C Cable       | $6.23     |
-| 4    | Hot Swap Sockets  | $6.90     |
-| 5    | Stabilizers       | $5.97     |
-| 6    | Switches          | $21.65    |
+| Item | Description         | Unit Price | Supplier   |
+|------|---------------------|------------|------------|
+| 1    | Custom Keyboard PCB | $55.82     | JLCPCB     |
+| 2    | PCB Components      | $22.54     | LCSC       |
+| 3    | USB-C Cable         | $6.23      | AliExpress |
+| 4    | Hot Swap Sockets    | $6.90      | AliExpress |
+| 5    | Stabilizers         | $5.97      | AliExpress |
+| 6    | Switches            | $21.65     | AliExpress |
+| 7    | Poron Foam          | $5.70      | AliExpress |
+| 8    | Keycaps Set         | $19.99     | Amazon     |
