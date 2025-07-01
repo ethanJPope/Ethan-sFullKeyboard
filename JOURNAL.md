@@ -120,3 +120,6 @@ had to resort to 3d printing it at my house. The big chellange and the reason I 
 to make it easier to machine with a cnc). To solve this I then added fillets to give some more stability to the right angles. I was then
 tasked to add some of my own design, but I am not very skilled at complex designs so I made some fun oval shapes on the side of the case,
 which I plan on putting some3d printing fillament in to give a pop of color. This took quite a while to get right.
+
+# New Keyboard Design
+![image](https://github.com/user-attachments/assets/b6beb8ec-56d5-4946-a69a-85a35980d988)
