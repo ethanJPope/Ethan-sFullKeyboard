@@ -8,8 +8,7 @@ created_at: "6/4/2025"
 
 I want to make my very first full sized key keyboard by my self. The core reason for doing this project is to: learn more about pcb making and second is to understand the highway process works.
 
-Total Time spent: 33h
-
+**Total Time spent: 37h**
 # DAY 1: June 4th, 2025
 
 ## Finished the schematic and started the pcb!
@@ -108,3 +107,16 @@ in the cad model, but when I put it together I can just sand down the corners.
 
 # Bottom Part of the Case with USBC
 ![image](https://github.com/user-attachments/assets/c00066ba-ac4a-40cf-97c1-1e035bfa8de4)
+
+# Day 5 June 29, 2025
+
+## Ready For Resubmission
+
+**Time spent 4h**
+
+This entire week i ahve been gone at my grandparents so I was hopiong that my keyboard would pass so I could order my parts and case,
+but sadly it didn't. I had origanally planed to have my case manufactured at my local shop but they are having problems right now so,
+had to resort to 3d printing it at my house. The big chellange and the reason I had been rejected is my case has sharp edges (origanally
+to make it easier to machine with a cnc). To solve this I then added fillets to give some more stability to the right angles. I was then
+tasked to add some of my own design, but I am not very skilled at complex designs so I made some fun oval shapes on the side of the case,
+which I plan on putting some3d printing fillament in to give a pop of color. This took quite a while to get right.

@@ -1,14 +1,9 @@
-Item,Quantity,Use,Source
-Capacitor_0402,2,Something needed,LCSC
-Fuse_0603,1,So it dosnt blow up,LCSC
-USB_C Port,1,Power/Data,LCSC
-5.1k Resistor,2,Pull down ressistor,LCSC
-JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,2,Connect the /Daughter Baord,LCSC
-CherryMX_Switch,104,Needed for a keybaord,Amazon
-Diodes,104,makes the keyboard matrix,LCSC
-PCB,2,one for the keyboard and one for the USB_C,JLCPCB
-Case,2,make it look nice,JLCCNC
-Plate,1,mounting,JLCCNC
-Cushion Damping,1,makes it sound better,Amazon
-Keycaps,104,needed for use,Amazon
-USBC Cable,1,powers the keyboard,Amazon
+Item,Description,Unit Price,Supplier
+1,Custom Keyboard PCB,55.82,JLCPCB
+2,PCB Components,22.54,LCSC
+3,USB-C Cable,6.23,AliExpress
+4,Hot Swap Sockets,6.90,AliExpress
+5,Stabilizers,5.97,AliExpress
+6,Switches,21.65,AliExpress
+7,Poron Foam,5.70,AliExpress
+8,Keycaps Set,19.99,Amazon
