@@ -134,7 +134,8 @@ Today I started with soldering all my parts. The hardest part was the tiny parts
 one of my robotics mentor. That was the majority of my time (about 4hr). Then I setup my prints, but after 10 min or so it I noticed filiment
 was not coming out. This was because it was gunking up in the nozel, and I could not fix it. So instead I asked my freind to print them for me
 (He has 2 X1 Carbons). I also went to my friends house to cut my plate the setup was the longest part, which was about 30 min. Then we could 
-just let it cut for about an 1.5 hr while we were at the park. That was all I did that day.
+just let it cut for about an 1.5 hr while we were at the park. Lastly I pust all of the parts together and tested it, but when I tested it some
+keys did not work. I had justy forget to solder one side of some hotswap sockets.
 
 # Main Keyboard PCB
 ![IMG_20250803_105525902](https://github.com/user-attachments/assets/d9f3d7c5-ba28-470e-9aa0-512acdd556c4)
@@ -148,3 +149,8 @@ just let it cut for about an 1.5 hr while we were at the park. That was all I di
 
 # 3D Printed Case
 ![IMG_20250803_110605547](https://github.com/user-attachments/assets/7d0f3644-972a-42da-939a-c428c0a5ec18)
+
+# Final Product
+![0047bdcb-f9c8-4a06-a499-ea2659d34d8d~1](https://github.com/user-attachments/assets/a4910789-37d7-42d1-a699-13f36647279d)
+
+
