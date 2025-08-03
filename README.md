@@ -20,6 +20,9 @@ My keybaord is a 100% version with a hotswappable pcb with custom USB_C Daughter
 ## CAD
 ![image](https://github.com/user-attachments/assets/d21e702c-f4f0-4158-ac76-5d515aa6b771)
 
+## Final Product
+![0047bdcb-f9c8-4a06-a499-ea2659d34d8d~1](https://github.com/user-attachments/assets/3a58ec8e-610e-4bb8-9cce-f96823433298)
+
 ## BOM
 
 | Item | Description         | Unit Price | Supplier   |
