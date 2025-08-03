@@ -123,3 +123,28 @@ which I plan on putting some3d printing fillament in to give a pop of color. Thi
 
 # New Keyboard Design
 ![image](https://github.com/user-attachments/assets/b6beb8ec-56d5-4946-a69a-85a35980d988)
+
+# Day 6 Aug 1, 2025
+
+## Starting to Put my Keyboard Together
+
+**Time spent 6h**
+
+Today I started with soldering all my parts. The hardest part was the tiny parts. To  make this easir I was able to borrow a microscope from
+one of my robotics mentor. That was the majority of my time (about 4hr). Then I setup my prints, but after 10 min or so it I noticed filiment
+was not coming out. This was because it was gunking up in the nozel, and I could not fix it. So instead I asked my freind to print them for me
+(He has 2 X1 Carbons). I also went to my friends house to cut my plate the setup was the longest part, which was about 30 min. Then we could 
+just let it cut for about an 1.5 hr while we were at the park. That was all I did that day.
+
+# Main Keyboard PCB
+![IMG_20250803_105525902](https://github.com/user-attachments/assets/d9f3d7c5-ba28-470e-9aa0-512acdd556c4)
+![IMG_20250803_105709373](https://github.com/user-attachments/assets/8498a342-5fc4-4144-a5fe-0e0667f5e5b6)
+
+# USB Module PCB
+![2020_0101_070004_025](https://github.com/user-attachments/assets/ef1b3d9a-97ab-4d88-a592-69e19df047be)
+
+# Plate CNCing
+![aafd38d2-0144-485e-ba0d-10ac9b6bb84e~1 (1)](https://github.com/user-attachments/assets/5cecf473-0fe6-44d5-8949-599b920a3bbf)
+
+# 3D Printed Case
+![IMG_20250803_110605547](https://github.com/user-attachments/assets/7d0f3644-972a-42da-939a-c428c0a5ec18)
